@@ -1,5 +1,5 @@
 $.ajax({
-    url: "http://iot-wristband.westeurope.cloudapp.azure.com/api/telemetry/devices",
+    url: "http://iot-wristband.westeurope.cloudapp.azure.com:80/api/telemetry/devices",
     data: {
     },
     cache: false,
