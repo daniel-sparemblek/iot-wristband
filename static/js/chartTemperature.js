@@ -1,5 +1,5 @@
 $.ajax({
-    url: "http://iot-wristband.westeurope.cloudapp.azure.com:80/api/telemetry/measurement",
+    url: "http://iot-wristband.westeurope.cloudapp.azure.com:80/api/telemetry/get",
     data: {
         "DeviceId": '1',
         "SensorName": "Temperature",
