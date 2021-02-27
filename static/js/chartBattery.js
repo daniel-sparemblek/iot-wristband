@@ -26,6 +26,7 @@ $.ajax({
                         data: values,
                         label: "Battery",
                         borderColor: "#ff0000",
+                        color: "#ff0000",
                         fill: false
                     },
                 ]
